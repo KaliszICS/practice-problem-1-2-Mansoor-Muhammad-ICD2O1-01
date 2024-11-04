@@ -3,17 +3,17 @@
 #Write Assignment code here
 
 def q1():
-    "name" = "Alex"
-print("name")
+    name = "Alex"
+    print(name)
 def q2():
-    "tree" = 3
-duex = 2
-penta = 5 
-print("tree" + duex + penta)
+    tree = 3
+    duex = 2
+    penta = 5 
+    print(tree + duex + penta)
 def q3():
-    "savage" = 21 
-quad = 4
-print("savage" // quad)
+    savage = 21 
+    quad = 4
+    print(savage // quad)
 def q4():
     hex = 6.3
     triad =3.0
