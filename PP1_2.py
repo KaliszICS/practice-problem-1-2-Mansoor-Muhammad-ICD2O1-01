@@ -17,19 +17,19 @@ def q3():
 def q4():
     hex = 6.3
     triad =3.0
-    print(hex % triad)
+    print(hex / triad)
 def q5():
     hew = "Hello World"
     print(hew)
     hew = "Goodbye World"
     print(hew)
 def q6():
-    pew = True
-    print(pew)
+    bool = True
+    print(bool)
 def q7():
     sef = 7
     eh = 2
-    print(sef + eh)
+    print(sef % eh)
 '''
 q1()
 q2()
